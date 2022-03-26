@@ -1,3 +1,10 @@
+Hola 4Geeks Teacher!!
+
+He creado este Instagram Post y espero que te guste.
+
+EL Post está divido en 4 principales divs, header, imagen, iconos y footer. Jugando con las diferentes propiedades de CSS para alinear los diferentes sub-divs. Escogiendo una imagen al azar de picsum de 400x300. Diferentes iconos traidos de font awesome y un texto random de lorem.
+
+
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
